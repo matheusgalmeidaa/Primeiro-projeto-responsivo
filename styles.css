@@ -23,6 +23,11 @@ header {
 
 }
 
+button:active {
+    opacity: 0.5;
+
+
+}
 
 .button-header {
     background: #665ae1;
@@ -102,77 +107,65 @@ p {
     header {
         display: none;
     }
-    
-.logo-image{
-    padding: 0;
-    margin: 150px 22px 24px 47px;
-    width: 70%;
-    height: auto;  
-    
+
+    .logo-image {
+        padding: 0;
+        margin: 150px 22px 24px 47px;
+        width: 70%;
+        height: auto;
+
+
+
+    }
+
+    section {
+        width: 60%;
+        height: auto;
+        text-align: center;
+        margin: 24px 63px 0px 75px;
+
+
+    }
+
+    p {
+        display: none;
+
+    }
+
+    h1 {
+
+        font-size: 50px;
+        line-height: 100%;
+
+    }
+
+    h2 {
+
+        font-size: 30px;
+        line-height: 100%;
+
+
+    }
+
+
+    .button-main {
+        font-size: 28px;
+        line-height: 100%;
+        margin: 17px 75px 133px 0px;
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
 
 
 }
-
-section{
-    width: 60%;
-    height: auto;
-    text-align: center;
-    margin: 24px 63px 0px 75px;
-    
-
-}
-p{
-    display: none;    
-
-}
-
-h1{
-
-    font-size: 50px;
-    line-height: 100%;
-
-}
-
-h2{
-
-    font-size: 30px;
-    line-height: 100%; 
-
-
-}
-
-
-.button-main{
-    font-size: 28px;
-    line-height: 100%;
-    margin: 17px 75px 133px 0px;
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
